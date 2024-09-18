@@ -1,0 +1,12 @@
+.todo{
+    background-image: url("todolistimage.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.heading{
+    color: rgb(43, 20, 255);
+    font-family:  'Courier New', monospace;
+    font-size: 60px;
+    font-weight: bolder;
+}
